@@ -1,0 +1,10 @@
+{
+	"DISCORD_TOKEN": "",
+    "clientId": "",
+    "PREFIX": "+",
+    "MONGO_URI": "",
+    "COD_USERNAME": "",
+    "COD_PASSWORD": "",
+    "AppClientID": "",
+    "AppSecretToken": ""
+}
